@@ -1,0 +1,109 @@
+Qual é o resultado de 2 + 2? | Matemática | 2 | 3 | 4 | 5 | 6
+Quanto é 5 x 6? | Matemática | 1 | 30 | 35 | 25 | 40
+Qual é a raiz quadrada de 81? | Matemática | 1 | 9 | 8 | 7 | 6
+Qual é o valor de π (pi) arredondado? | Matemática | 1 | 3.14 | 3.25 | 3.5 | 2.71
+Qual é o resultado de 100 ÷ 4? | Matemática | 3 | 20 | 30 | 25 | 35
+Quanto é 7²? | Matemática | 1 | 49 | 42 | 36 | 56
+Qual é o número primo? | Matemática | 4 | 4 | 6 | 9 | 7
+Qual é o maior número? | Matemática | 2 | 999 | 1000 | 998 | 100
+Quanto é 12 + 15? | Matemática | 1 | 27 | 26 | 25 | 30
+Qual é a metade de 64? | Matemática | 1 | 32 | 30 | 28 | 36
+
+Quem descobriu o Brasil? | História | 1 | Pedro Álvares Cabral | Dom Pedro I | Cristóvão Colombo | Vasco da Gama
+Em que ano ocorreu a Independência do Brasil? | História | 2 | 1820 | 1822 | 1824 | 1830
+Quem foi o primeiro presidente do Brasil? | História | 2 | Getúlio Vargas | Deodoro da Fonseca | Juscelino Kubitschek | Lula
+Qual guerra foi entre 1914 e 1918? | História | 3 | Segunda Guerra | Guerra Fria | Primeira Guerra | Guerra Civil
+Qual era a capital do Império Romano? | História | 2 | Atenas | Roma | Paris | Lisboa
+Quem foi Napoleão Bonaparte? | História | 2 | Cientista | Imperador | Pintor | Médico
+Quando ocorreu a Revolução Francesa? | História | 1 | 1789 | 1800 | 1750 | 1822
+Qual civilização construiu as pirâmides? | História | 4 | Gregos | Romanos | Maias | Egípcios
+Quem assinou a Lei Áurea? | História | 3 | Getúlio Vargas | Dom Pedro II | Princesa Isabel | Tiradentes
+Quem liderou o movimento nazista? | História | 3 | Stalin | Churchill | Hitler | Roosevelt
+
+Qual é a capital da França? | Geografia | 2 | Berlim | Paris | Roma | Madri
+Qual é o rio mais extenso do mundo? | Geografia | 1 | Amazonas | Nilo | Yangtzé | Mississipi
+Em que continente está o Egito? | Geografia | 1 | África | Europa | Ásia | América
+Qual é o maior deserto do mundo? | Geografia | 2 | Kalahari | Saara | Gobi | Atacama
+Qual oceano banha a costa leste do Brasil? | Geografia | 4 | Pacífico | Índico | Ártico | Atlântico
+Onde fica o Monte Everest? | Geografia | 3 | China | Rússia | Nepal | Índia
+Qual é o menor país do mundo? | Geografia | 1 | Vaticano | Mônaco | San Marino | Malta
+Qual é o maior país do mundo? | Geografia | 2 | Canadá | Rússia | China | EUA
+Qual continente tem mais países? | Geografia | 1 | África | Europa | Ásia | América
+Qual país tem mais habitantes? | Geografia | 3 | EUA | Brasil | China | Índia
+
+Qual é a fórmula da água? | Química | 1 | H2O | CO2 | O2 | H2SO4
+Qual elemento químico tem o símbolo Na? | Química | 2 | Nitrato | Sódio | Potássio | Nitrogênio
+Qual é o pH neutro? | Química | 3 | 3 | 5 | 7 | 9
+Quantos elétrons cabem na 1ª camada? | Química | 1 | 2 | 4 | 6 | 8
+Qual estado da matéria tem forma e volume definidos? | Química | 2 | Gasoso | Sólido | Líquido | Plasma
+Qual é o símbolo do ouro? | Química | 4 | Ag | Fe | Hg | Au
+O que é HCl? | Química | 1 | Ácido clorídrico | Ácido sulfúrico | Água oxigenada | Hidróxido de sódio
+Qual gás é essencial para combustão? | Química | 2 | Hidrogênio | Oxigênio | Gás Carbônico | Hélio
+Qual é o símbolo do ferro? | Química | 1 | Fe | F | I | Fr
+Qual é o número atômico do carbono? | Química | 3 | 4 | 5 | 6 | 7
+
+Qual é a unidade de força? | Física | 2 | Watt | Newton | Pascal | Joule
+O que é velocidade média? | Física | 3 | Massa ÷ Tempo | Força x Aceleração | Distância ÷ Tempo | Trabalho ÷ Energia
+Quem desenvolveu a Teoria da Relatividade? | Física | 1 | Einstein | Newton | Galileo | Tesla
+Qual é a fórmula da velocidade? | Física | 3 | m.a | E/t | d/t | F.d
+Qual a unidade de energia? | Física | 4 | Newton | Pascal | Watt | Joule
+O que é trabalho na física? | Física | 3 | Força ÷ Tempo | Massa x Gravidade | Força x Deslocamento | Energia ÷ Tempo
+O que é aceleração? | Física | 2 | Deslocamento ÷ Tempo | Variação da velocidade ÷ Tempo | Massa x Velocidade | Força x Tempo
+Qual é a unidade de potência? | Física | 2 | Newton | Watt | Pascal | Joule
+Qual é o valor aproximado da gravidade? | Física | 1 | 9.8 m/s² | 10 m/s² | 8.9 m/s² | 9.0 m/s²
+Quem descobriu a Lei da Gravitação Universal? | Física | 3 | Einstein | Tesla | Newton | Galileu
+
+Qual é a unidade básica da vida? | Biologia | 2 | Átomo | Célula | Tecido | Órgão
+Qual é o órgão responsável pela respiração? | Biologia | 3 | Coração | Fígado | Pulmões | Estômago
+Qual é o sistema responsável pela digestão? | Biologia | 2 | Nervoso | Digestório | Endócrino | Respiratório
+Qual é o sangue universal? | Biologia | 4 | A | B | AB | O negativo
+Onde ocorre a fotossíntese? | Biologia | 4 | Raiz | Flor | Caule | Folha
+Qual é o maior órgão do corpo humano? | Biologia | 2 | Fígado | Pele | Coração | Pulmão
+Quem é o pai da genética? | Biologia | 3 | Darwin | Pasteur | Mendel | Einstein
+O que os herbívoros comem? | Biologia | 2 | Carne | Plantas | Frutas | Insetos
+Como se chama o processo de divisão celular? | Biologia | 1 | Mitose | Fagocitose | Osmose | Difusão
+Qual é o DNA? | Biologia | 3 | Ácido sulfúrico | Proteína | Ácido nucleico | Hormônio
+
+Qual é o substantivo na frase: 'O menino correu'? | Português | 3 | correu | o | menino | na
+Qual é o antônimo de 'feliz'? | Português | 2 | alegre | triste | contente | risonho
+Qual é o tempo verbal de 'eu comi'? | Português | 2 | futuro | pretérito | presente | imperativo
+Qual é o plural de 'cidadão'? | Português | 2 | cidadões | cidadãos | cidades | cidãos
+O que é um adjetivo? | Português | 3 | verbo | nome | descrição | ação
+Qual é a função do verbo? | Português | 1 | indicar ação | nomear | descrever | qualificar
+Qual é o sujeito da frase 'Maria gosta de ler'? | Português | 3 | gosta | de ler | Maria | ler
+'Cão' é qual classe gramatical? | Português | 3 | adjetivo | verbo | substantivo | conjunção
+Qual é o aumentativo de 'casa'? | Português | 3 | casão | casinha | casarão | casaria
+Qual é a forma correta: 'haviam pessoas' ou 'havia pessoas'? | Português | 2 | haviam | havia | tem pessoas | tinham pessoas
+
+Como se diz 'cachorro' em inglês? | Inglês | 3 | cat | cow | dog | duck
+Qual é o passado de 'go'? | Inglês | 4 | goed | gone | goes | went
+Como se diz 'obrigado'? | Inglês | 3 | please | hello | thank you | sorry
+O que significa 'book'? | Inglês | 1 | livro | caneta | papel | porta
+Traduza: 'She is my sister' | Inglês | 1 | Ela é minha irmã | Ele é meu irmão | Ela é minha amiga | Ela é minha filha
+Qual é a cor 'green'? | Inglês | 2 | vermelho | verde | azul | amarelo
+What is the plural of 'child'? | Inglês | 3 | childs | childes | children | childrens
+Como se diz 'bom dia'? | Inglês | 3 | good night | hello | good morning | good bye
+Qual é a tradução de 'house'? | Inglês | 1 | casa | cachorro | carro | árvore
+Qual é o verbo 'to be' na primeira pessoa do singular? | Inglês | 2 | are | am | is | be
+
+Qual país sediou a Copa do Mundo de 2022? | Atualidades | 3 | Brasil | Rússia | Catar | França
+Quem é o atual presidente do Brasil? (2025) | Atualidades | 2 | Bolsonaro | Lula | Dilma | Temer
+Qual tema está em pauta sobre meio ambiente? | Atualidades | 1 | Desmatamento | Vacinação | Guerra | Inflação
+Qual tecnologia cresceu em 2024? | Atualidades | 2 | TV a cabo | IA | Fax | DVD
+Qual conflito está em destaque em 2024? | Atualidades | 2 | Brasil vs Argentina | Ucrânia vs Rússia | EUA vs China | França vs Alemanha
+O que é ChatGPT? | Atualidades | 2 | Filme | IA | Aplicativo bancário | Jogo
+Qual país lidera a produção de vacinas? | Atualidades | 3 | Brasil | Índia | EUA | Alemanha
+Qual moeda digital é famosa? | Atualidades | 3 | Real | Euro | Bitcoin | Peso
+Qual é o nome do bilionário dono da Tesla? | Atualidades | 3 | Jeff Bezos | Bill Gates | Elon Musk | Mark Zuckerberg
+Qual foi a pandemia global recente? | Atualidades | 2 | Gripe Suína | Covid-19 | Sarampo | Varíola
+
+O que significa CPU? | Informática | 1 | Central Process Unit | Central Program Unit | Computer Program Unit | Computer Personal Unit
+O que é um sistema operacional? | Informática | 2 | Hardware | Software | Monitor | Placa mãe
+Qual é a função do mouse? | Informática | 2 | Digitar | Clicar | Imprimir | Escanear
+O que é a internet? | Informática | 2 | Software | Rede mundial | Sistema operacional | Arquivo
+O que é um navegador? | Informática | 3 | Antivírus | Programa de edição | Programa para acessar sites | Processador
+O que significa HTML? | Informática | 1 | Hyper Text Markup Language | High Text Modern Language | Hyperlink and Text Marking Language | Home Tool Markup Language
+O que é um arquivo .doc? | Informática | 2 | Imagem | Documento | Vídeo | Áudio
+Qual destes é um sistema operacional? | Informática | 2 | Chrome | Linux | Word | Excel
+Para que serve o Excel? | Informática | 2 | Edição de imagem | Cálculo e planilhas | Acesso à internet | Jogar
+Qual tecla copia um texto? | Informática | 3 | Ctrl + V | Ctrl + X | Ctrl + C | Ctrl + Z
